@@ -41,4 +41,4 @@ Install the required libraries:
 ```bash
 pip install opencv-python cvzone pyserial
 ---
-Open the Python script and update the COM port (e.g., change 'COM3' to match your actual Arduino port seen in the Arduino IDE), then run:
+Open the Python script and update the COM port (e.g., change 'COM3' to match your actual Arduino port seen in the Arduino IDE), then run.
